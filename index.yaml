@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  phpldapadmin:
+  - created: 2018-09-27T18:41:56.4344021+03:00
+    description: A phpldapadmin Helm chart for Kubernetes.
+    digest: 2b0cd58902f29dc528587148054036f26e7f05f38d0ce1c9efc3d9be885b1d01
+    maintainers:
+    - email: dkoval@heliostech.fr
+      name: Dimitri Koval
+    name: phpldapadmin
+    urls:
+    - https://bitbucket.org/viktar_neuhen/helm/phpldapadmin-0.0.1.tgz
+    version: 0.0.1
+generated: 2018-09-27T18:41:56.4334289+03:00
